@@ -1,0 +1,7 @@
+[package]
+name = "advent-of-code-2020"
+version = "0.1.0"
+authors = ["ltriess <mail@triess.eu>"]
+edition = "2018"
+
+[dependencies]
